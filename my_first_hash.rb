@@ -6,7 +6,7 @@ end
 def shipping_manifest
   the_manifest = {}
   the_manifest["whale bone corsets"] = 5
-  the_manifest["poreclain vases"] =
+  the_manifest["poreclain vases"] = 2
   the_manifest["oil paintings"] = 3
 
 
